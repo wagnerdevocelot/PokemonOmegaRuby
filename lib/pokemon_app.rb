@@ -34,9 +34,5 @@ pokemon2.stats = {
 }
 
 
-p pokemon1
-
-p pokemon2
-
 
 
