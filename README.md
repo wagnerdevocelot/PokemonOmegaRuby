@@ -36,7 +36,7 @@ Vapordev - https://medium.com/vapordev/shin-programming-tensei-e822b28a47d5
 
 # Desenvolvido por
 
-Wagner Abrantes<br>
-Twitter - [@Vapordev1](https://twitter.com/Vapordev1)<br>
-Email - wagner.dev1337@gmail.com<br>
-Blog - https://medium.com/vapordev
+Wagner Abrantes [Linkedin](https://www.linkedin.com/in/wagner-abrantes-6b30a118b/)<br>
+Twitter [@Vapordev1](https://twitter.com/Vapordev1)<br>
+Email  wagner.dev1337@gmail.com<br>
+Blog [VAPORDEV](https://medium.com/vapordev)
